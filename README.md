@@ -1,2 +1,2 @@
 # TheAnswerToEverything
-The Repo that solve all your problems ins life 
+The Repo that solves all your problems ins life 
